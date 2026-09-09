@@ -18,7 +18,7 @@ app.get("/objetivos", (req, res) => {
       name: "Pedro sánchez",
       codename: "OBJ-001",
       status: "MONITORED",
-      riskLevel: "HIGH",
+      riskLevel: "CRITICAL",
     },
     {
       name: "Isabel Díaz Ayuso",
